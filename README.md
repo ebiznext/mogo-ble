@@ -1,4 +1,4 @@
 mogo-ble
 ========
 
-mobile bluetooth low energy
+mobile goes bluetooth low energy
